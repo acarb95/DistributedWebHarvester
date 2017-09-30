@@ -1,13 +1,3 @@
-Warnings: 
-	- Long running time for: biology, chemistry, physics, and biomedical sciences (explained below)
-	- Currently the program does not run on those because when it tries to access those websites it gets an unexpected end of
-file error when it connects. 
-    - Page rank was not implemented :( 
-
-I believe the long running time was due to the high amount of connections being made (not by me) while I was testing, I'm assuming those connections were made by others also testing their programs.
-
-I have no idea why the end of file errors are occurring but they just started tonight (3/10) around 5:30 pm.
-
 On to the instructions:
 
 To make:
@@ -29,9 +19,3 @@ Explanation of Scripts:
 
 Possible run times with 1 second sleep:
 	It really depends on if biology, chem, bmb, and physics are accessible. If not, it runs in a matter of minutes. If they are, they themselves can take hours to run all the way through.
-
-Hopefully when you test this it won't, a) run for 3+ hours (it's done this...), b) have end of file connection error, or c) have connection timeout errors.
-
-In the case of possibility (a), grab a good book or another class's homework assignment and settle in. :)
-
-Thanks!
